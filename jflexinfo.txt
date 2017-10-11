@@ -1,0 +1,10 @@
+UP TO TP2...
+go to:
+http://jflex.de/download.html
+download or open archive version 1.6.1
+use/get or extract following jar files:
+<archive-root>/lib/java-cup-11a.jar
+<archive-root>/lib/jflex-1.6.1.jar
+
+FOR TP2.5...
+see www.fil.univ-lille1.fr/~allegraud/as/hello.bf
